@@ -1,0 +1,5 @@
+/* google font Roboto*/
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Ibarra+Real+Nova&family=Poppins&family=Roboto&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
